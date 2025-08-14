@@ -2,11 +2,11 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #110101;
 }
 
 header {
-  background: #35424a;
+  background: #488fbc;
   color: #ffffff;
   padding: 20px 0;
   text-align: center;
@@ -30,7 +30,7 @@ section {
 }
 
 .project-box {
-  background: #e2e2e2;
+  background: #220404;
   margin: 10px 0;
   padding: 15px;
   border-radius: 5px;
